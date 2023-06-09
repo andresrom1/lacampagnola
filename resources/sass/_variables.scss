@@ -1,0 +1,64 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-font-awesome: 'FontAwesome' !important;
+$font-family-sans-serif: 'Lato', sans-serif !important;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+$letter-spacing-1: 1px;
+
+
+
+// $font-size-58: 58px;
+// $font-size-32: 32px;
+// $font-size-28: 28px;
+// $font-size-24: 24px;
+// $font-size-20: 20px;
+// $font-size-18: 18px;
+// $font-size-16: 16px;
+// $font-size-15: 15px;
+// $font-size-14: 14px;
+// $font-size-12: 12px;
+
+
+
+$font-size-58: calc(100vw * 58 / 375);
+$font-size-32: calc(100vw * 32 / 375);
+$font-size-28: calc(100vw * 28 / 375);
+$font-size-24: calc(100vw * 24 / 375);
+$font-size-20: calc(100vw * 20 / 375);
+$font-size-18: calc(100vw * 18 / 375);
+$font-size-16: calc(100vw * 16 / 375);
+$font-size-15: calc(100vw * 15 / 375);
+$font-size-14: calc(100vw * 14 / 375);
+$font-size-12: calc(100vw * 12 / 375);
+
+
+// Colors
+$white: #FFF;
+$red: #df011f;
+$darkred: #bf0724;
+$verysoftgrey: #f1f1f1;
+$softgrey: #e9e9e9;
+$softgrey2: #CCC;
+$mediumgrey: #c7c7c7;
+$grey: #888888;
+$fb: #3d5a98;
+$tw: #55acee;
+$yt: #e62d27;
+
+
+// Views
+// $media-375: 375px;
+// $media-750: 750px;
+// $media-751: 751px;
+// $media-1024: 1024px;
+// $media-1300: 1300px;
+// $media-1920: 1920px;
+
+
+// Views
+$mobile: 1023px;
+$desktop: 1024px;
+$notebook: 1300px;
